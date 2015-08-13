@@ -1,0 +1,10 @@
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\bin\Debug\ImageLibrary.dll
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\bin\Debug\ImageLibrary.pdb
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.Image.archive_add.png
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.Image.attachment_add.png
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.Image.credit_card_add.png
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.Image.forms.png
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.Image.image_add.png
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.dll
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\ImageLibrary\obj\Debug\ImageLibrary.pdb

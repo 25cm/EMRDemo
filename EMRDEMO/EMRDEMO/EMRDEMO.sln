@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERMControl", "ERMUserControl\ERMControl.csproj", "{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMain", "FormMain\FormMain.csproj", "{44CBC479-8B78-4A73-B8B0-C003DBBADADD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLibrary", "ImageLibrary\ImageLibrary.csproj", "{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Debug|x86.ActiveCfg = Debug|x86
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Debug|x86.Build.0 = Debug|x86
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Release|x86.ActiveCfg = Release|x86
+		{F2CA2C11-A97A-4CBC-92AC-D0CEDA21F25A}.Release|x86.Build.0 = Release|x86
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Debug|x86.ActiveCfg = Debug|x86
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Debug|x86.Build.0 = Debug|x86
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Release|x86.ActiveCfg = Release|x86
+		{44CBC479-8B78-4A73-B8B0-C003DBBADADD}.Release|x86.Build.0 = Release|x86
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B646A6CD-5A9A-4253-8F9D-43DE95A558DE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

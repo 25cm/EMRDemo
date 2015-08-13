@@ -1,0 +1,10 @@
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\bin\Debug\MainForm.pdb
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\bin\Debug\ERMUserControl.dll
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\bin\Debug\ERMUserControl.pdb
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\MainForm.Form1.resources
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\MainForm.pdb
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\bin\Debug\MainForm.exe
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\MainForm\obj\Debug\MainForm.exe

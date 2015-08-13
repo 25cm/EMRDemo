@@ -1,0 +1,7 @@
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\bin\Debug\WindowsApp.exe
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\obj\Debug\WindowsApp.exe
+D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\WindowsApp\obj\Debug\WindowsApp.pdb
