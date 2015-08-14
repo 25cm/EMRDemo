@@ -42,8 +42,6 @@ D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.P
 D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.csproj.GenerateResource.Cache
 D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.exe
 D:\Project\trunk\IHIS.Contents\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.pdb
-D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.exe
-D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.pdb
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.Form1.resources
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.Properties.Resources.resources
@@ -64,3 +62,5 @@ D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\bin\x86\Debug\protobuf-net.dll
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\bin\x86\Debug\IHIS.CloudConnector.pdb
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\bin\x86\Debug\IHIS.Service.pdb
 D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\bin\x86\Debug\ERMControl.pdb
+D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.exe
+D:\Project\EMRDemo\EMRDEMO\EMRDEMO\FormMain\obj\x86\Debug\FormMain.pdb
